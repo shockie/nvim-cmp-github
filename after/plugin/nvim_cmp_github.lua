@@ -1,0 +1,1 @@
+--require('cmp').register_source('github', require('nvim_cmp_github').new())
